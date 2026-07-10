@@ -3,7 +3,7 @@ name: skillsmith
 description: Expert architect for designing production-quality Agent Skills. Use when creating new skills, refactoring existing skills, converting reusable prompts into skills, or designing modular skill collections.
 license: MIT
 metadata:
-  author: @ViGi-P
+  author: Vignesh Prasad
   github: https://github.com/ViGi-P/skillsmith
   version: "1.0.0"
   purpose: meta-skill
