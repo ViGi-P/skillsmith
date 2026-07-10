@@ -9,13 +9,9 @@ Design Production-Quality Agent Skills.
 </p>
 
 <p align="center">
-
-![License](https://img.shields.io/github/license/ViGi-P/skillsmith)
-
-![Release](https://img.shields.io/github/v/release/ViGi-P/skillsmith)
-
-![Stars](https://img.shields.io/github/stars/ViGi-P/skillsmith)
-
+  <img src="https://img.shields.io/github/license/ViGi-P/skillsmith?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/github/v/release/ViGi-P/skillsmith?style=for-the-badge" alt="Release">
+  <img src="https://img.shields.io/github/stars/ViGi-P/skillsmith?style=for-the-badge" alt="Stars">
 </p>
 
 Skillsmith is an open-source Agent Skill that helps AI agents design, review, and generate high-quality skills following the official Agent Skills specification.
