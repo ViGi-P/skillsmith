@@ -30,14 +30,14 @@ Use a hybrid only when a single pattern is insufficient.
 
 ### Documentation
 
-```text
+```
 SKILL.md
 references/
 ```
 
 ### Script-backed
 
-```text
+```
 SKILL.md
 scripts/
 references/
@@ -45,7 +45,7 @@ references/
 
 ### Template
 
-```text
+```
 SKILL.md
 assets/
 ```
