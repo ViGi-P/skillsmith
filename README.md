@@ -26,6 +26,28 @@ Rather than focusing solely on generating `SKILL.md` files, Skillsmith emphasize
 * 📚 Includes concise reference material for validation and design patterns
 * ⚡ Optimized for low token usage without sacrificing capability
 
+## **Install**
+
+### npx skills
+```bash
+npx skills@latest add ViGi-P/skillsmith
+```
+### GitHub Skills
+```bash
+gh skill install ViGi-P/skillsmith
+```
+
+## **Usage**
+
+When activated, Skillsmith helps agents:
+
+* create new skills
+* refactor existing skills
+* review skill architecture
+* organize supporting documentation
+* apply progressive disclosure
+* improve maintainability and discoverability
+
 ## **Repository Structure**
 
 ```
@@ -68,19 +90,6 @@ Common architectural patterns for organizing different types of skills.
 ### **`references/skill-smells.md`**
 
 A review checklist of common design mistakes and anti-patterns.
-
-## **Usage**
-
-Place the `skillsmith` directory into your agent’s skills directory and allow the agent to discover it according to your agent framework’s conventions.
-
-When activated, Skillsmith helps agents:
-
-* create new skills
-* refactor existing skills
-* review skill architecture
-* organize supporting documentation
-* apply progressive disclosure
-* improve maintainability and discoverability
 
 ## **Contributing**
 
